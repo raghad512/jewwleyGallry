@@ -104,7 +104,7 @@
         </div>
 
         <div class="ea">
- 		    <a href=""><img src="./home/bracelet.jpg" width="30%"></a>
+ 		    <a href=""><img src="./home/BRACELET.jpg" width="30%"></a>
  		   <h3> BRACELET</h3>
  		   <a href=""><button><h4>Shop NOW</h4></button></a>
         </div>
