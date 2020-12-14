@@ -1,0 +1,99 @@
+*{
+	background-color: black;
+	color: white;
+
+}
+header{
+	background-image: url(./earings/earings.jpg);
+	width: 100%;
+	height: 510px;
+	background-size: cover;
+	background-repeat: no-repeat;
+    
+}
+
+header ul{
+	list-style: none;
+	float: left;
+    /*width: 100%;*/
+    padding-left: 667px;
+}
+header ul li{
+	float: left;
+   
+    padding: 10px 50px; 
+}
+header ul li a{
+	float: right;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-decoration: none;
+}
+header ul li a:hover{
+	color: gray;
+	font-size: 14px;
+
+}
+
+.contaner h1{
+	margin: 50px  ;
+	border-bottom: 3px solid white;
+
+}
+.contaner .ring{
+    border: 3px solid white;
+	margin: 30px 30px;
+	text-align: center;
+	float: left;
+	
+}
+.ring img{
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+}
+.contaner{
+	margin-left: 80px;
+}
+.all{
+	margin-left: 60px;
+}
+
+.ring button{
+	margin-bottom: 10px;
+	color: black;
+	background-color: white;
+	font-family:Helvetica;
+}
+.ring a:hover{
+   opacity: 0.3;
+}
+
+.last{
+	clear: both;
+	width: 100%;
+	height: 250px;
+	text-align: center;
+	padding-top: 300px;
+	margin-bottom: 0px;
+
+	 
+
+
+}
+.last img {
+	height: 20px;
+	width: 20px;
+	padding: 20px;
+}
+ .last h3{
+ 	border-top: 3px solid white;
+ 	padding-top: 20px; 
+ 	width: 80%;
+ 	margin-left: 150px;
+ 	font-family: Arial, Helvetica, sans-serif;
+ }
+
+footer{
+	text-align: center;
+}
