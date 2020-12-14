@@ -98,7 +98,7 @@
         </div>
 
         <div class="ea">
- 		   <a href=""><img src="./home/ANKLET.jpg" width="30%"></a> 
+ 		   <a href=""><img src="./home/anklet.jpg" width="30%"></a> 
  		   <h3> ANKLET</h3>
  		   <a href=""><button><h4>Shop NOW</h4></button></a>
         </div>
